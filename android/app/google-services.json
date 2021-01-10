@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "843378670040",
+    "firebase_url": "https://projectbaru-af76f.firebaseio.com",
+    "project_id": "projectbaru-af76f",
+    "storage_bucket": "projectbaru-af76f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843378670040:android:ee4f947da3004a54b85aad",
+        "android_client_info": {
+          "package_name": "com.project.aplikasi_surat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843378670040-sjoeeanrcvs503colpm2fqjs36b8s2tv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvG9Es4Z146CGW5njzolxAiMt9tcvcXTY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843378670040-sjoeeanrcvs503colpm2fqjs36b8s2tv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
